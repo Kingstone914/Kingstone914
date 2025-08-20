@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Kingston, and I am a student in the "Intro to AI" class at Lane Tech Highschool. I am apart of the Aplha program at Lane Tech.
+My Interests are basketball and music.My favorite artists right now are Hoax and Malcolm Todd. My favorite songs right now are "5" by hoax, "Wasting time" by Hoax, and "Attention" by Malcolm Todd.
 <!--
 **Kingstone914/Kingstone914** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
